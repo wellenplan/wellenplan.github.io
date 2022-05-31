@@ -1,0 +1,1 @@
+const e={key:"v-fffb8e28",path:"/guide/",title:"Introduction to Wellenplan",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654030873e3,contributors:[{name:"Lucas Bickel",email:"116588+hairmare@users.noreply.github.com",commits:1}]},filePathRelative:"guide/index.md"};export{e as data};
