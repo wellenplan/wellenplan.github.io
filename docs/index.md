@@ -32,7 +32,7 @@ actions:
     <h2>Based on Directus</h2>
     <p>
       Wellenplan is based on <a href="https://directus.io">Directus</a>,
-      the modern, open source data platform that helps Wellenplan not
+      the open source data platform that helps Wellenplan not
       reinvent the wheel.
     </p>
   </div>
