@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"Introduction to Wellenplan","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672514824000,"contributors":[{"name":"dependabot[bot]","email":"49699333+dependabot[bot]@users.noreply.github.com","commits":1}]},"filePathRelative":"guide/index.md"}');export{e as data};
